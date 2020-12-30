@@ -1,6 +1,6 @@
 
 
-!(Screenshot.png)
+![Screenshot](Screenshot.png)
 
 
 
